@@ -2,9 +2,11 @@
 
 A simple, static datepicker UI component built with HTML and CSS. This project demonstrates CSS layout and styling techniques for creating a calendar-like interface.
 
-## Project URL
+## Project Information
 
-View the live demo: [Static Datepicker UI](https://esystems542.github.io/datepicker/)
+- Project Page: [Datepicker UI Challenge on roadmap.sh](https://roadmap.sh/projects/datepicker-ui)
+- Live Demo: [Static Datepicker UI](https://esystems542.github.io/datepicker/)
+- Repository: [GitHub Repository](https://github.com/esystems542/datepicker)
 
 ## Preview
 
